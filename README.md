@@ -53,4 +53,4 @@ Durante o desenvolvimento, foram aplicados conceitos fundamentais como:
 
 ### Protótipo:
 
-![protótipo](./imagem/imagemPrintBRABO.jpg)
+![protótipo](./imagem/imagemPrintBRABO)
