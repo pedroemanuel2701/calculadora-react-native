@@ -49,8 +49,7 @@ Durante o desenvolvimento, foram aplicados conceitos fundamentais como:
 ### Passo a passo
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/calculadora-react-native.git](https://github.com/seu-usuario/calculadora-react-native.git)
-
+   git clone [https://github.com/pedroemanuel2701/calculadora-react-native.git](https://github.com/pedroemanuel2701/calculadora-react-native.git)
 ### Protótipo:
 
 ![protótipo](./imagem/imagemPrintBRABO)
